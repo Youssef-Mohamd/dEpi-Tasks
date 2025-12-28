@@ -17,4 +17,3 @@ I have documented my progress through various tasks covering:
 Each folder in this repository represents a specific module or task assigned during the scholarship. You can explore the source code to see how I applied the concepts learned in each session.
 
 ---
-*Note: This repository serves as a portfolio of my technical growth and commitment to excellence in software development.*
